@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#loginpaginita{
+  background-image: url('./wallpaperzen.jpg');
+  height:100vh;
+  width:100%;
+  background-size: cover;
+  background-position: center;
+}
+
+#loginformita{
+  position: absolute;
+  right:170px;
+}
+
+#signupben{
+  margin: 150px;
+  left:100px;
+  background-color: #ffffff;
+  opacity: 0.7;
+  position: absolute;
+  width: 500px;
+  height: 600px;
+  text-align: center;
+  color:#69F0AE
+}
+
+#mainPage{
+  background-image: url('./wallpaperzen2.jpg');
+  height:100vh;
+  width:100%;
+  background-size: cover;
+  background-position: center;
+}
+
+#listatareas{
+  background-image: url('./planting.jpg');
+  height:100vh;
+  width:100%;
+  background-size: cover;
+  background-position: center;
+}
+
+#listaclusters{
+  background-image: url('./clusterwallpaper.jpg');
+  height:100vh;
+  width:100%;
+  background-size: cover;
+  background-position: center;
+}
+
+#signupben2{
+  margin: 150px;
+  left:350px;
+  top:100px;
+  background-color: #ffffff;
+  opacity: 0.6;
+  position: absolute;
+  width: 600px;
+  height: 700px;
+  text-align: center;
+  color:#69F0AE
+}
